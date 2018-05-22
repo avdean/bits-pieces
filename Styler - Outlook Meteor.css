@@ -17,19 +17,24 @@ color: #ACDEEE;
 }
 
 ._mcp_c2 {
-    background-color: #1e2635;
+  background-color: #293134;
+  }
+
+._fp_n, .ms-border-color-neutralLight {
+background-color: #293134;
 }
 
-._mcp_e2 {
-    background-color: #103c65;
-}
 /*End of Scrollbar elements*/
+
+.ms-border-color-themeLighter {
+  background-color: #293134;
+}
+
 
 element.style {
 	background-color: rgba(55, 66, 75, 0.53);
 	color: #293134;
 }
-
 
 /*Highlight Colour, reminder*/
 span {	color: #C0C0C0!important;}
@@ -77,8 +82,9 @@ background-color: rgba(41, 56, 63, 0.53)!important;
 ._rp_D5 {
 background-color: rgba(47, 49, 56, 0.69)!important;
 }
+
 ._n_V4 {
-background-color: #383838!important;
+background-color: #293134!important;
 }
 .ms-bg-color-themeLighter, .ms-bgc-tlr, .ms-bg-color-themeLighter-hover:hover, .ms-bg-color-themeLighter-before:before, .ms-bgc-tlr-h:hover, .ms-bgc-tlr-b:before {
 background-color: #495251!important;
@@ -123,7 +129,7 @@ background-color: #4D4E50!important;
 transition: background-color .4s;
 }
 .textbox {
-background-color: #3A3A3F!important;
+background-color: #293134!important;
 }
 .ms-core-overlay {
 background-color: rgba(219, 218, 208, 0.85)!important;
